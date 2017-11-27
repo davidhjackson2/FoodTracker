@@ -86,15 +86,15 @@
 			isa = PBXGroup;
 			children = (
 				631B79321F79516E00213610 /* AppDelegate.swift */,
+				631B79391F79516E00213610 /* Assets.xcassets */,
+				631B793E1F79516E00213610 /* Info.plist */,
+				631B793B1F79516E00213610 /* LaunchScreen.storyboard */,
+				631B79361F79516E00213610 /* Main.storyboard */,
 				63F5C2C21F94FCAC006C5663 /* Meal.swift */,
+				6318D5F91FCB5253009FC8E8 /* MealTableViewCell.swift */,
+				6318D5FB1FCB5F52009FC8E8 /* MealTableViewController.swift */,
 				631B79341F79516E00213610 /* MealViewController.swift */,
 				63338DDE1F87C9DC001FB4E1 /* RatingControl.swift */,
-				631B79361F79516E00213610 /* Main.storyboard */,
-				6318D5FB1FCB5F52009FC8E8 /* MealTableViewController.swift */,
-				6318D5F91FCB5253009FC8E8 /* MealTableViewCell.swift */,
-				631B79391F79516E00213610 /* Assets.xcassets */,
-				631B793B1F79516E00213610 /* LaunchScreen.storyboard */,
-				631B793E1F79516E00213610 /* Info.plist */,
 			);
 			path = FoodTracker;
 			sourceTree = "<group>";
